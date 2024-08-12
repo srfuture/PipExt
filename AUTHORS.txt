@@ -1,3 +1,6 @@
+====PipX Authors======
+Tankouji
+
 ====Pip Authors======
 @Switch01
 A_Rog
@@ -795,6 +798,3 @@ Zvezdan Petkovic
 Łukasz Langa
 Роман Донченко
 Семён Марьясин
-
-====PipX Authors======
-Tankouji
