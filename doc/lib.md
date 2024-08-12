@@ -150,4 +150,5 @@ lib                         Libzip tools.
 ```
   - 成功创建了一个空的`packages.lib`文件
 
-  - 运行`pip lib tidy`，会将当前目录下所有py文件包含的库离线下载到`./tmp`目录下，然后将其添加到`packages.lib`压缩包内
+  - 运行`pip lib tidy`，会将当前目录下所有py文件包含的库离线下载到`./tmp`目录下，然后将其添加到`packages.lib`压缩包内，最后自动删除./tmp
+  - 运行`pip lib install packages.lib`会将packages.lib解压到`./tmp`目录下，然后逐个安装whl文件，最后自动删除./tmp
