@@ -23,6 +23,11 @@ commands_dict: Dict[str, CommandInfo] = {
         "InstallCommand",
         "Install packages.",
     ),
+    "lib": CommandInfo(
+        "pip._internal.commands.lib",
+        "LibCommand",
+        "Libzip tools.",
+    ),
     "download": CommandInfo(
         "pip._internal.commands.download",
         "DownloadCommand",

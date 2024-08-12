@@ -1,3 +1,4 @@
+====Pip Authors======
 @Switch01
 A_Rog
 Aakanksha Agrawal
@@ -794,3 +795,6 @@ Zvezdan Petkovic
 Łukasz Langa
 Роман Донченко
 Семён Марьясин
+
+====PipX Authors======
+Tankouji
